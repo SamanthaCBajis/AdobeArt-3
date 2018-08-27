@@ -18,3 +18,9 @@ Adobe Illustrator - Program used to create art and attach to Github
 <br /> Ste Bradbury Design - YouTube channel that created and presented tutorial on how to create this work.
 <br /> You can watch the full video here!
 <br /> [Striped 3D Shapes Tutorial.](https://www.youtube.com/watch?v=hmzlNvqziVI "YouTube")
+## NightWolf
+<br /> ![screen shot 2018-08-26 at 8 16 11 pm](https://user-images.githubusercontent.com/35173600/44634865-0c700f00-a96d-11e8-9e5c-bcb6c44a021f.png)
+## Polly.TheFox.
+<br /> ![screen shot 2018-08-26 at 8 18 17 pm](https://user-images.githubusercontent.com/35173600/44634884-49d49c80-a96d-11e8-801d-c11e09832ffb.png)
+<br /> ![fox](https://user-images.githubusercontent.com/35173600/44634892-55c05e80-a96d-11e8-9302-2099856f4b33.jpg)
+
