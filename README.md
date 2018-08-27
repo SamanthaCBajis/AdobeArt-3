@@ -23,4 +23,7 @@ Adobe Illustrator - Program used to create art and attach to Github
 ## Polly.TheFox.
 <br /> ![screen shot 2018-08-26 at 8 18 17 pm](https://user-images.githubusercontent.com/35173600/44634884-49d49c80-a96d-11e8-801d-c11e09832ffb.png)
 <br /> ![fox](https://user-images.githubusercontent.com/35173600/44634892-55c05e80-a96d-11e8-9302-2099856f4b33.jpg)
-
+## VRwithAdobe
+<br /> ![screen shot 2018-08-26 at 8 24 00 pm](https://user-images.githubusercontent.com/35173600/44634978-2c540280-a96e-11e8-9305-1235adea22a4.png)
+## Corrosion Promotion
+<br /> ![screen shot 2018-08-26 at 8 24 29 pm](https://user-images.githubusercontent.com/35173600/44634985-41c92c80-a96e-11e8-824a-bbd9134316b6.png)
