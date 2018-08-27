@@ -56,7 +56,7 @@ Adobe InDesign - Program used to create art and attach to Github
 <br />
 <br /> Google - Provided VR image cut/cropped into ad and quotes 
 ## Corrosion Promotion
-<br /> ![screen shot 2018-08-26 at 8 24 29 pm](https://user-images.githubusercontent.com/35173600/44634985-41c92c80-a96e-11e8-824a-bbd9134316b6.png)
+<br /> ![screen shot 2018-08-27 at 8 54 13 am](https://user-images.githubusercontent.com/35173600/44672962-2276e180-a9f8-11e8-8f88-007816afa54b.png)
 <br /> This small eye catching ad, created in Adobe InDesign, was used for a small project on the innovations of testing salt sprays to lesson the possibiliy of corrosion on metals. The ad is meant to be sent in an email and draw the customer in to click on a link to an article that would be provided below this design.
 <br /> The images of the corrosion chamber and metallic, cartoon nuts and bolts were found on Google Images and placed along side each other to create the look of positivity in corrosion testing advances.
 <br /> Text was added with the message to the right of the photo, also color blended with the colors presented on the corrosion chamber, which is a short blurb that can give the reader an idea of what the email is pertaining to as well as the idea for the photo presented before them.
