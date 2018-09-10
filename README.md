@@ -47,10 +47,23 @@ Adobe Illustrator - Program used to create art and attach to Github
 <br /> [Make a Low Poly Portrait ! 2016.](https://www.youtube.com/watch?v=PgXEztxYppM "YouTube")
 ## splatteredflowers
 <br /> ![screen shot 2018-08-30 at 8 16 22 pm](https://user-images.githubusercontent.com/35173600/44886776-8b7b8500-ac96-11e8-9091-a95cfc1d5bec.png)
+<br />  spaltteredflowers is an artistic image created using the Dispersion Effect. I took two of the many symbols provided in Illustrator and I used verious tools to give them the effect they are dispersing and blending with the background.
+<br /> The Crystallize Tool was used to stretch/expand half of the symbol, then a mask is layered over the original image. Artistic Ink brushes, colored and white, were painted over that half of the symbol to give the effect it is breaking apart and blending with the background colors.
+<br /> A simple Gradient Swatch was customized to cover the background and match the flower symbols.
 ### Acknowledgements
+Adobe Illustrator - Program used to create art and attach to Github
+<br />
+<br /> Z Education - YouTube channel that created and presented tutorial on how to create this work.
+<br /> You can watch the full video here!
+<br /> [Dispersion effect in illustrator](https://www.youtube.com/watch?v=aBvu4EHZQYw "YouTube")
 ## 4Textures
 <br /> ![screen shot 2018-08-30 at 8 43 42 pm](https://user-images.githubusercontent.com/35173600/44886805-b36ae880-ac96-11e8-9298-6bc09485cb8e.png)
+<br /> The idea of 4Textures came from my love for game application development. I had used Photoshop a few times in the past to either create height maps or materials to import into my games so i decded to make a few textures in Illustrator to in a way connect the elements of development and design.
+<br /> The textures are Wood, Cement, Grass and Brick. By using some Google images as a reference I was able to create what I could from the real image in Illustrator.
 ### Acknowledgements
+Adobe Illustrator - Program used to create art and attach to Github
+<br /> 
+<br /> Google Images - Images found and used as reference for all textures
 ## VRwithAdobe
 <br /> ![screen shot 2018-08-26 at 8 24 00 pm](https://user-images.githubusercontent.com/35173600/44634978-2c540280-a96e-11e8-9305-1235adea22a4.png)
 <br /> VRwithAdobe is the first project in this repository created in Adobe InDesign. It is a small ad/poster/really any way of promotion for virtual and augmented reality. Creating the project I learned a lot about Adobe InDesign though layout and different advertising ideas to make the promotional piece more interesting to a possible reader.
